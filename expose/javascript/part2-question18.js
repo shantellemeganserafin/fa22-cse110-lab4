@@ -8,4 +8,4 @@ function getTime(){
 
 }
 
-setInterval(getTime,1000);ßß
+setInterval(getTime,1000);
